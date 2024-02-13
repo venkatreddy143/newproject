@@ -4,5 +4,13 @@ public class Biryani {
      {
           System.out.println(i);
      }
+     if (j==1){
+          System.out.println(j);
+     }
+     muttonprice = "450";
+     if (muttonprice<=300){
+          return "deliver";
+     }
+
 
 }
