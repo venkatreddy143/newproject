@@ -7,5 +7,10 @@ public class Biryani {
      if (j==1){
           System.out.println(j);
      }
+     muttonprice = "450";
+     if (muttonprice<=300){
+          return "deliver";
+     }
+
 
 }
